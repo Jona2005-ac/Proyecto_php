@@ -1,8 +1,8 @@
 <div class="content-wrapper">
   <div class="page-title">
     <div>
-      <h1><i class="fa fa-dashboard"></i> Dashboard</h1>
-      <p>A free and modular admin template</p>
+      <h1><i class="fa fa-dashboard"></i> Página Principal</h1>
+      <p>Nuestros productos al mejor precio y excelente calidad</p>
     </div>
     <div>
       <ul class="breadcrumb">
